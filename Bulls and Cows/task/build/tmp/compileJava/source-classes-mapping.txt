@@ -1,0 +1,8 @@
+bullscows/GenRandomNumber.java
+ bullscows.GenRandomNumber
+bullscows/ReadConsole.java
+ bullscows.ReadConsole
+bullscows/BullsAndCows.java
+ bullscows.BullsAndCows
+bullscows/Main.java
+ bullscows.Main
